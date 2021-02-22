@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🔭 I’m currently working on (and looking to collaborate on) ... ai-music composition SaaS, NFT audio marketplace
+- 🌱 I’m currently learning ... Bubble.io, VM for Abelton, API,  
+- 📫 How to reach me: ... hi@oscarvoigt.com
+- ⚡ Fun fact: ... I am a marketing analyst. 
+
 <!--
 **6lyssai/6lyssai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
